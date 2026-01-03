@@ -215,7 +215,7 @@ export const PROJECTS = [
         "id": "quizapp_7h4t2v9",
         "name": "Quizora – Management System",
         "category": "PHP",
-        "description": "uizora is a web-based system built with PHP, MySQL, jQuery, and Bootstrap that allows students to take quizzes and view results, while admins can manage quizzes, courses, and students through an intuitive dashboard.",
+        "description": "Quizora is a web-based system built with PHP, MySQL, jQuery, and Bootstrap that allows students to take quizzes and view results, while admins can manage quizzes, courses, and students through an intuitive dashboard.",
         "thumbnail": "/quizora/q2.png",
         "images": [
             "/quizora/q0.png",
