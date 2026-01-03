@@ -29,9 +29,9 @@ const App = () => {
   const toggleDarkMode = () => setIsDarkMode(!isDarkMode);
 
   const links = [
+    {name:'EMAIL' , url: 'https://mail.google.com/mail/?view=cm&fs=1&to=cmubashar369@gmail.com'},
     {name:'GITHUB' , url: 'https://github.com/mubashir-hsn'},
     {name:'LINKEDIN' , url: 'https://www.linkedin.com/in/mubashir-hsn'},
-    {name:'TWITTER' , url: '#'},
   ]
   return (
     <>
