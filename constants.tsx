@@ -18,7 +18,7 @@ export const SKILL_CATEGORIES = [
   {
     title: "Specialized",
     icon: "cpu",
-    skills: ["Git & GitHub", "AI Integration", ""JWT ,"NextAuth", "Zod"]
+    skills: ["Git & GitHub", "AI Integration", "JWT" ,"NextAuth", "Zod"]
   }
 ];
 
