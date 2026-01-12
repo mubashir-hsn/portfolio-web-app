@@ -37,18 +37,22 @@ export const PROJECTS = [
             "/careerlyfiles/c5.png",
             "/careerlyfiles/c6.png",
             "/careerlyfiles/c7.png",
-            "/careerlyfiles/c8.png"
+            "/careerlyfiles/c8.png",
+            "/careerlyfiles/c9.png",
+            "/careerlyfiles/c10.png",
+            "/careerlyfiles/c11.png",
         ],
         "features": [
             "AI-powered industrial insights",
             "Interactive AI chatbot for career guidance",
             "Cover letter generator using Gemini API",
+            "AI Mock Interview Preparation",
             "AI-powered Resume Analysis and ATS Scoring with detailed suggestions for skills, structure, summary, etc",
             "Smart resume builder with ATS optimization"
         ],
         "technologies": ["Next.js", "Inngest", "Prisma", "Neon", "Gemini API", "shadcn/ui"],
         "githubLink": "https://github.com/mubashir-hsn/careerly",
-        "livePreview": "https://careerly-ashen.vercel.app/"
+        "livePreview": "https://careerly-j397.vercel.app/"
     },
     {
         "id": "litefit_7f3a9x1",
