@@ -182,6 +182,26 @@ export const PROJECTS = [
         "livePreview": "https://ai-resume-analyzer-delta-two.vercel.app"
     },
     {
+      "id": "yt_8n02rq3x7",
+      "name": "MERN YouTube Clone",
+      "category": "Frontend",
+      "description": "A YouTube-like platform built with the MERN stack. Users can watch videos fetched from a REST API and search for videos by keywords.",
+      "thumbnail": "/youtubefiles/y0.png",
+      "images": [
+          "/youtubefiles/y0.png",
+          "/youtubefiles/y1.png",
+          "/youtubefiles/y2.png",
+      ],
+      "features": [
+          "Watch videos from a REST API",
+          "Search videos by title or keywords",
+          "Responsive design for all devices"
+      ],
+      "technologies": ["React.js", "Node.js", "Express.js", "REST API", "Tailwind CSS"],
+      "githubLink": "https://github.com/mubashir-hsn/yt-clone",
+      "livePreview": ""
+  },
+    {
         "id": "ichat_4k8s1r9",
         "name": "iChat – Messaging App",
         "category": "Full Stack",
@@ -269,7 +289,34 @@ export const PROJECTS = [
         "technologies": ["PHP", "MySQL", "Bootstrap", "JavaScript"],
         "githubLink": "https://github.com/mubashir-hsn/cheezybite",
         "livePreview": "https://cheezybite.infinityfree.me"
-    }
+    },
+  {
+      "id": "foodi_yn2gq7x01",
+      "name": "Foodie – Full Stack Food Ordering",
+      "category": "PHP",
+      "description": "A full-stack food ordering platform built with PHP, MySQL, and Bootstrap. Includes both admin and user panels, allowing order management, menu updates, and seamless online ordering experience.",
+      "thumbnail": "/foodie/f1.png",
+      "images": [
+          "/foodie/f1.png",
+          "/foodie/f2.png",
+          "/foodie/f3.png",
+          "/foodie/f4.png",
+          "/foodie/f5.png",
+          "/foodie/f6.png",
+          "/foodie/f7.png",
+      ],
+      "features": [
+          "Admin panel for menu and order management",
+          "User panel for browsing menu and placing orders",
+          "Secure login and registration for both users and admins",
+          "Responsive design using Bootstrap",
+          "Order history and tracking",
+          "Interactive and modern UI"
+      ],
+      "technologies": ["PHP", "MySQL", "Bootstrap", "JavaScript", "jQuery"],
+      "githubLink": "https://github.com/mubashir-hsn/foodi",
+      "livePreview": ""
+  }
 ];
 
 export const WORK_EXPERIENCE = [
